@@ -10,3 +10,5 @@ Machine_Learning_Projects
 
 **Heart Diseases Prediction**  : https://drive.google.com/file/d/1tXDeKqiqn-60cvlZVvjaBqRoi_xXBRnm/view?usp=share_link
 
+**Diabetes Detection** : https://drive.google.com/file/d/1w7XbO7nMSImehQ9tHodrW1UNA74fquTr/view?usp=share_link
+
